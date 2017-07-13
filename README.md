@@ -1,2 +1,2 @@
 # vending-machine-spring-mvc
-This version of the vending machine uses JSPs, Spring MVC, and JSTL instead of JavaScript / AJAX.
+Java web application that simulates a vending machine. Uses Java, JSP, and Spring Core / MVC.
